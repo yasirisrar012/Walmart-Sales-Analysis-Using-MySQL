@@ -1,3 +1,4 @@
+# Walmart Sales Analysis Using MySQL
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behavior. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows.
 
 1) Product Analysis-
